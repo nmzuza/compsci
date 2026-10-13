@@ -10,7 +10,7 @@
   "recycleBinFolder": "vx_notebook/recycle_bin",
   "syncBackend": "git",
   "syncEnabled": true,
-  "syncRemoteUrl": "https://github.com/nmzuza/compsci",
+  "syncRemoteUrl": "https://nmzuza@github.com/nmzuza/compsci",
   "tags": [],
   "tagsModifiedUtc": 0
 }

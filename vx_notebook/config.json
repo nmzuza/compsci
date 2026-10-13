@@ -8,9 +8,9 @@
   "metadata": {},
   "name": "comp sci",
   "recycleBinFolder": "vx_notebook/recycle_bin",
-  "syncBackend": "",
-  "syncEnabled": false,
-  "syncRemoteUrl": "",
+  "syncBackend": "git",
+  "syncEnabled": true,
+  "syncRemoteUrl": "https://github.com/nmzuza/compsci",
   "tags": [],
   "tagsModifiedUtc": 0
 }

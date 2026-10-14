@@ -1,4 +1,4 @@
-# Maths #1
+q21§1# Maths #1
 
 Logic is a valid system of formal reasoning, it uses symbols according to syntax and applies the rule of interference to avoid any un intended prejudices entering the reasoning process
 
